@@ -1,3 +1,4 @@
 fileForIgnore.txt
-Second/ File.txt
-yeni/ bosluqlaIqnorda.txt
+Second\ File.txt
+yeni\ bosluqlaIqnorda.txt
+yeni\ bosluqlaIqnorda3.txt
